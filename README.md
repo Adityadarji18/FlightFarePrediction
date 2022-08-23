@@ -1,4 +1,4 @@
-# FlightFarePrediction
+# Flight Fare Prediction
 Problem Statement -
 Predict the price of the flight based on the features like airline,date,duration,route,etc.
 
